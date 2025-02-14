@@ -10,6 +10,6 @@ This repository contains my data analysis using <b>Python</b>. All the worked do
     <td>Cafe Sales </td>
     <td>Data cleaning, exploratory patterns, trend, and analyzing sales key indicators within Cafe Sales</td>
     <td>Data Cleaning, EDA, Time series</td>
-    <td><a href="https://github.com/jeeenss/Data-Analysis-with-SQL/blob/master/US%20Sales/US_Sales_Performance_Analysis.ipynb">Link</a></td>
+    <td><a href="https://github.com/jeeenss/Data-Analysis-with-Python/blob/master/Cafe_Sales/cafe_sales_analysis.ipynb">Link</a></td>
   </tr>
 </table>
